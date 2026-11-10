@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.238.38.161:8081/repository/govinda/</url>
+		    <url>http://13.222.21.18:8081/repository/govinda/</url>
 		</repository>
   	</distributionManagement>
 	
